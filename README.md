@@ -25,3 +25,9 @@ generate pixel are that is unique for arbitrary different strings
 | ![](out/4/128x128.bmp)  | ![](out/5/128x128.bmp)  | ![](out/6/128x128.bmp "Title")  | ![](out/7/128x128.bmp)
 | ![](out/8/128x128.bmp)  | ![](out/9/128x128.bmp)  | ![](out/10/128x128.bmp "Title") | ![](out/11/128x128.bmp)
 | ![](out/12/128x128.bmp) | ![](out/13/128x128.bmp) | ![](out/14/128x128.bmp "Title") | ![](out/15/128x128.bmp)
+
+# Future work
+while realistically, I'll never pick this up again, if I *were* to, I would likely...
+* add more facial features (optional nose; hair)
+* make border more prominent
+* consider pixel-art blitting at higher resolutions 
